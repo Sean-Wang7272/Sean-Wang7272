@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Sean 👋
 
-<!--
-**Sean-Wang7272/Sean-Wang7272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student currently focusing on learning C# and basic software development.
+I use this GitHub account to document my learning process and maintain small practice projects.
 
-Here are some ideas to get you started:
+### 🔧 What I'm working on
+- C# fundamentals and object-oriented programming
+- Simple desktop applications
+- Code structure and readability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Learning goals
+- Improve problem-solving skills through hands-on projects
+- Build a solid foundation in software development
+- Gradually explore more advanced topics
+
+### 📁 Repositories
+Most repositories here are practice or learning-oriented projects.
+They may be simple, but each one reflects a step forward.
+
+Thanks for visiting!
