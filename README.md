@@ -18,3 +18,10 @@ Most repositories here are practice projects tracking my C# learning curve.
 They may be simple demos or partial implementations, but each represents a step forward in coding.
 
 Thanks for visiting!
+
+<!-- 贪吃蛇动画 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sean-Wang7272/Sean-Wang7272/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sean-Wang7272/Sean-Wang7272/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sean-Wang7272/Sean-Wang7272/output/github-contribution-grid-snake.svg">
+</picture>
